@@ -7,3 +7,7 @@ var destructivelyAppendKitten = function() {
 var destructivelyPrependKitten = function() {
   return kittens.unshift("Bob")
 }
+
+var destructivelyPrependKitten = function() {
+  return kittens.unshift("Bob")
+}
