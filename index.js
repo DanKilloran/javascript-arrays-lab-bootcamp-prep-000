@@ -8,6 +8,7 @@ var destructivelyPrependKitten = function() {
   return kittens.unshift("Bob")
 }
 
-var destructivelyPrependKitten = function() {
+var destructivelyRemoveLastKitten = function() {
+  
   return kittens.unshift("Bob")
 }
