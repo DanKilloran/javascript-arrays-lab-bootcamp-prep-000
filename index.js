@@ -22,3 +22,6 @@ var appendKitten = function() {
   return [...kittens, "Broom"]
 }
 
+var appendKitten = function() {
+  return [...kittens, "Broom"]
+}
