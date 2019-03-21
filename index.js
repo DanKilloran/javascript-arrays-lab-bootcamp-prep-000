@@ -26,3 +26,7 @@ var prependKitten = function() {
   return ["Arnold", ...kittens]
 }
 
+var removeLastKitten = function() {
+  kittens.shift()
+  return kittens
+}
