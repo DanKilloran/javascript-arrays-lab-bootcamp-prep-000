@@ -19,5 +19,5 @@ var destructivelyRemoveFirstKitten = function() {
 }
 
 var appendKitten = function() {
-  return appendKitten('Broom')
+  return 
 }
